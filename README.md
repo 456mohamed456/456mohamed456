@@ -13,7 +13,7 @@
 
 <!-- TryHackMe Badge -->
 <a href="https://tryhackme.com/p/mohamedhesham103">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4122303" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/MohamedHesham.22.png" alt="Your Image Badge" />
 </a>
 
 <br><br>
